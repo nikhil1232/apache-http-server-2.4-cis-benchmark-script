@@ -1,4 +1,4 @@
-# apache-http-server-2.4-cis-benchmark-script
+# Apache HTTP Server 2.4 CIS Benchmark Script
 Apache HTTP Server 2.4 CIS Benchmarks Automation Script
 
 This would run mostly all the audit points specified in the Official CIS Benchmark PDF.
